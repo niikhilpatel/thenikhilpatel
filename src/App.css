@@ -94,7 +94,15 @@ input,textarea{
   cursor: pointer;
 }
 
+/* Below css belongs to project.html files */
+ol li a {
+  color: rgb(241, 239, 235);
+}
 
+ol li a:hover{
+  color: rgb(215, 30, 61);
+}
+/* projects.html css end */
 
 @media (prefers-color-scheme: dark) {
   body, input, textarea {
